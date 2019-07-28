@@ -15,3 +15,6 @@ si es necesario ejecutar el siguiente comando para sumar los archivos o carpetas
 git add (file or folder)<br/>
 git commit -m "número commit"<br/>
 git push origin master<br/>
+
+# Actualizar proyecto en máquina local desde el repositorio github:
+git pull https://github.com/torvicv/docemonos.git(remoteName) master(branchName)
